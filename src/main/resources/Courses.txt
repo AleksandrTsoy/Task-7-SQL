@@ -1,0 +1,10 @@
+0_1_Math_Solving quadratic equations
+1_2_Russian language_Learning punctuation marks
+2_3_Geometry_Proof of basic theorems
+3_4_Physical science_Laboratory work
+4_5_Chemistry_Laboratory work
+5_6_Philosophy_The study of Kant's philosophy
+6_7_English language_Listening and speaking
+7_8_Literature_Silver Age writers
+8_9_Geography_Around the world in 80 days
+9_10_History_History of the 21st century
